@@ -1,2 +1,2 @@
 # Ejemplo Card
-![la tarjeta](card.jpg)
+![la tarjeta].(card.jpg)
