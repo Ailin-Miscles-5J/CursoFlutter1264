@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:miscles1264/mi_widget/dialogo_acerca_de.dart';
+import 'package:miscles1264/mi_widget/list_tile.dart';
 //import 'package:miscles1264/mi_widget/mi_tarjeta.dart';
 
 const Color darkBlue = Color(0xFF12202F);
@@ -20,7 +20,7 @@ class MiTarjeta extends StatelessWidget {
           title: Text("Flutter Ailin"),
           centerTitle: true,
         ),
-        body: const DialogoAcercaDe(),
+        body: const listTile(),
       ),
     );
   }
