@@ -6,5 +6,5 @@
 ![la tarjeta](dialogor.png)
 
 ##Ejemplo de un list Tile
-![la tarjeta](lisTile.png)
+![la tarjeta](listTile.png)
 ![la tarjeta](listTile2.png)
